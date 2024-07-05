@@ -15,3 +15,7 @@ The "data" directory is the source directory in our example.
 - Copying these directories recursively to the destination directory but without the "game" part in their names.
 - Creating a JSON file containing information about the games found (Number of games, games names).
 - Compiling each go file inside each of the directories (the compiled files should exist each in their corresponding directories). 
+
+## Code Output
+- Running the script:
+  <img src=>
