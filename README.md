@@ -5,7 +5,8 @@ This is a simple project covering general ideas of common daily tasks to make su
 ## Project Description
 The script should be accepting 2 arguments, one for the source directory and the other for a destination directory.
 The source directory is a mock-up project directory which simulate a real-world project directory and it contains directories and files for the project. 
-<img src=https://github.com/TasneemAdelkh/Python-Scripting-Automation-Project/blob/main/Capture.PNG>\n</img>
+<img src=https://github.com/TasneemAdelkh/Python-Scripting-Automation-Project/blob/main/Capture.PNG></img>
+
 The "data" directory is the source directory in our example.
 
 ## Project Requirements
