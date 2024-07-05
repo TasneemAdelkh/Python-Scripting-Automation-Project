@@ -23,4 +23,7 @@ The "data" directory is the source directory in our example.
   <img src=https://github.com/TasneemAdelkh/Python-Scripting-Automation-Project/blob/main/Capture2.PNG></img>
 
 - Expected output:
+
+  <img src=https://github.com/TasneemAdelkh/Python-Scripting-Automation-Project/blob/main/Output.png></img>
+
   
