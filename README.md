@@ -8,7 +8,7 @@ The source directory is a mock-up project directory which simulate a real-world 
 <img src=https://github.com/TasneemAdelkh/Python-Scripting-Automation-Project/blob/main/Capture.PNG></img>
 The "data" directory is the source directory in our example.
 
-##Project Requirements
+## Project Requirements
 1- Creating another directory(destination directory) with the same name as the second argument.
 2- Traversing the source directory for the directories containing "game" in them.
 3- Copying these directories recursively to the destination directory but without the "game" part in their names.
