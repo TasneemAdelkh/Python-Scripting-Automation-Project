@@ -6,3 +6,11 @@ This is a simple project covering general ideas of common daily tasks to make su
 The script should be accepting 2 arguments, one for the source directory and the other for a destination directory.
 The source directory is a mock-up project directory which simulate a real-world project directory and it contains directories and files for the project. 
 <img src=https://github.com/TasneemAdelkh/Python-Scripting-Automation-Project/blob/main/Capture.PNG></img>
+The "data" directory is the source directory in our example.
+
+##Project Requirements
+1- Creating another directory(destination directory) with the same name as the second argument.
+2- Traversing the source directory for the directories containing "game" in them.
+3- Copying these directories recursively to the destination directory but without the "game" part in their names.
+4- Creating a JSON file containing information about the games found (Number of games, games names).
+5- Compiling each go file inside each of the directories (the compiled files should exist each in their corresponding directories). 
