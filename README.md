@@ -20,4 +20,7 @@ The "data" directory is the source directory in our example.
 ## Code Output
 - Running the script:
   
-  <img src=>
+  <img src=https://github.com/TasneemAdelkh/Python-Scripting-Automation-Project/blob/main/Capture2.PNG></img>
+
+- Expected output:
+  
